@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently studying at Gadjah Mada University<br>🌱 I'm currently studying Backend and AI<br>⚡ Fun fact, i really like rogue-like games
+🔭 I am currently studying at Gadjah Mada University<br>🌱 I'm currently studying Mobile App and Backend<br>⚡ Fun fact, i really like rogue-like games
 
 
 ## 🌐 Socials:
